@@ -1,0 +1,13 @@
+#environment.yml
+
+development:
+
+	url: http://dev.dollarshaveclub.com
+
+test:
+
+	url: http://test.dollarshaveclub.com
+
+production: 
+
+	url: http://www.dollarshaveclub.com

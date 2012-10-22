@@ -1,0 +1,6 @@
+source "http://rubygems.org"
+
+gem "cucumber"
+gem "watir-webdriver"
+
+require 'watir-page-helper'

@@ -1,0 +1,3 @@
+default:  --no-source --format pretty --tags ~@not_ready
+slow:  --no-source --format pretty --tags @slow --tags ~@not_ready
+fast:  --no-source --format pretty --tags ~@slow, ~@not_ready

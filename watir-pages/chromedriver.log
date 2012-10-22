@@ -1,0 +1,251 @@
+[0.000][INFO]:      ChromeDriver 23.0.1240.0 /home/aaron/bin/chromedriver
+[0.258][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.detach": true,
+   "chromeOptions": {
+      "detach": true
+   },
+   "cssSelectorsEnabled": true,
+   "javascriptEnabled": true,
+   "nativeEvents": false,
+   "platform": "ANY",
+   "rotatable": false,
+   "takesScreenshot": false,
+   "version": ""
+}
+
+[0.259][INFO]:      Using named testing interface
+[0.629][INFO]:      Connected to Chrome successfully. Version: 22.0.1229.94
+[0.648][FINE]:      Command received (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7)
+[0.648][FINE]:      Command finished (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7) with response {
+   "sessionId": "6a1f23d67ac7abf5a1cc393c17a5e6d7",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "23.0.1240.0",
+      "chrome.nativeEvents": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "linux",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "22.0.1229.94",
+      "webStorageEnabled": true
+   }
+}
+
+[0.650][FINE]:      Command received (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/url) with params {
+   "url": "http://www.dollarshaveclub.com/"
+}
+
+[0.650][FINER]:     Waiting for all views to stop loading...
+[0.650][FINER]:     Done waiting for all views to stop loading
+[7.289][FINER]:     Waiting for all views to stop loading...
+[7.291][FINER]:     Done waiting for all views to stop loading
+[7.291][FINE]:      Command finished (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/url) with response {
+   "sessionId": "6a1f23d67ac7abf5a1cc393c17a5e6d7",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[7.292][FINE]:      Command received (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/url)
+[7.292][FINER]:     Waiting for all views to stop loading...
+[7.292][FINER]:     Done waiting for all views to stop loading
+[7.296][FINER]:     Waiting for all views to stop loading...
+[7.297][FINER]:     Done waiting for all views to stop loading
+[7.297][FINE]:      Command finished (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/url) with response {
+   "sessionId": "6a1f23d67ac7abf5a1cc393c17a5e6d7",
+   "status": 0,
+   "value": "http://www.dollarshaveclub.com/"
+}
+
+[7.298][FINE]:      Command received (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/frame) with params {
+   "id": null
+}
+
+[7.298][FINER]:     Waiting for all views to stop loading...
+[7.298][FINER]:     Done waiting for all views to stop loading
+[7.298][FINER]:     Waiting for all views to stop loading...
+[7.298][FINER]:     Done waiting for all views to stop loading
+[7.298][FINE]:      Command finished (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/frame) with response {
+   "sessionId": "6a1f23d67ac7abf5a1cc393c17a5e6d7",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[7.299][FINE]:      Command received (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element) with params {
+   "using": "xpath",
+   "value": ".//a[normalize-space()='Login']"
+}
+
+[7.299][FINER]:     Waiting for all views to stop loading...
+[7.299][FINER]:     Done waiting for all views to stop loading
+[7.313][FINER]:     Waiting for all views to stop loading...
+[7.314][FINER]:     Done waiting for all views to stop loading
+[7.314][FINE]:      Command finished (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element) with response {
+   "sessionId": "6a1f23d67ac7abf5a1cc393c17a5e6d7",
+   "status": 0,
+   "value": {
+      "ELEMENT": ":wdc:1350775267445"
+   }
+}
+
+[7.317][FINE]:      Command received (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element/:wdc:1350775267445/name)
+[7.318][FINER]:     Waiting for all views to stop loading...
+[7.318][FINER]:     Done waiting for all views to stop loading
+[7.322][FINER]:     Waiting for all views to stop loading...
+[7.322][FINER]:     Done waiting for all views to stop loading
+[7.322][FINE]:      Command finished (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element/:wdc:1350775267445/name) with response {
+   "sessionId": "6a1f23d67ac7abf5a1cc393c17a5e6d7",
+   "status": 0,
+   "value": "a"
+}
+
+[7.323][FINE]:      Command received (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/frame) with params {
+   "id": null
+}
+
+[7.323][FINER]:     Waiting for all views to stop loading...
+[7.323][FINER]:     Done waiting for all views to stop loading
+[7.323][FINER]:     Waiting for all views to stop loading...
+[7.323][FINER]:     Done waiting for all views to stop loading
+[7.323][FINE]:      Command finished (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/frame) with response {
+   "sessionId": "6a1f23d67ac7abf5a1cc393c17a5e6d7",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[7.324][FINE]:      Command received (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element) with params {
+   "using": "xpath",
+   "value": ".//a[normalize-space()='Login']"
+}
+
+[7.324][FINER]:     Waiting for all views to stop loading...
+[7.324][FINER]:     Done waiting for all views to stop loading
+[7.328][FINER]:     Waiting for all views to stop loading...
+[7.329][FINER]:     Done waiting for all views to stop loading
+[7.329][FINE]:      Command finished (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element) with response {
+   "sessionId": "6a1f23d67ac7abf5a1cc393c17a5e6d7",
+   "status": 0,
+   "value": {
+      "ELEMENT": ":wdc:1350775267445"
+   }
+}
+
+[7.329][FINE]:      Command received (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element/:wdc:1350775267445/name)
+[7.329][FINER]:     Waiting for all views to stop loading...
+[7.330][FINER]:     Done waiting for all views to stop loading
+[7.331][FINER]:     Waiting for all views to stop loading...
+[7.331][FINER]:     Done waiting for all views to stop loading
+[7.331][FINE]:      Command finished (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element/:wdc:1350775267445/name) with response {
+   "sessionId": "6a1f23d67ac7abf5a1cc393c17a5e6d7",
+   "status": 0,
+   "value": "a"
+}
+
+[7.332][FINE]:      Command received (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element/:wdc:1350775267445/displayed)
+[7.332][FINER]:     Waiting for all views to stop loading...
+[7.332][FINER]:     Done waiting for all views to stop loading
+[7.346][FINER]:     Waiting for all views to stop loading...
+[7.347][FINER]:     Done waiting for all views to stop loading
+[7.347][FINE]:      Command finished (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element/:wdc:1350775267445/displayed) with response {
+   "sessionId": "6a1f23d67ac7abf5a1cc393c17a5e6d7",
+   "status": 0,
+   "value": true
+}
+
+[7.348][FINE]:      Command received (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/title)
+[7.348][FINER]:     Waiting for all views to stop loading...
+[7.349][FINER]:     Done waiting for all views to stop loading
+[7.356][FINER]:     Waiting for all views to stop loading...
+[7.356][FINER]:     Done waiting for all views to stop loading
+[7.356][FINE]:      Command finished (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/title) with response {
+   "sessionId": "6a1f23d67ac7abf5a1cc393c17a5e6d7",
+   "status": 0,
+   "value": "Men's Razors, Buy Razor Blades Online | Dollar Shave Club"
+}
+
+[7.357][FINE]:      Command received (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/frame) with params {
+   "id": null
+}
+
+[7.357][FINER]:     Waiting for all views to stop loading...
+[7.357][FINER]:     Done waiting for all views to stop loading
+[7.357][FINER]:     Waiting for all views to stop loading...
+[7.358][FINER]:     Done waiting for all views to stop loading
+[7.358][FINE]:      Command finished (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/frame) with response {
+   "sessionId": "6a1f23d67ac7abf5a1cc393c17a5e6d7",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[7.359][FINE]:      Command received (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element) with params {
+   "using": "xpath",
+   "value": ".//a[normalize-space()='Login']"
+}
+
+[7.359][FINER]:     Waiting for all views to stop loading...
+[7.359][FINER]:     Done waiting for all views to stop loading
+[7.366][FINER]:     Waiting for all views to stop loading...
+[7.366][FINER]:     Done waiting for all views to stop loading
+[7.366][FINE]:      Command finished (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element) with response {
+   "sessionId": "6a1f23d67ac7abf5a1cc393c17a5e6d7",
+   "status": 0,
+   "value": {
+      "ELEMENT": ":wdc:1350775267445"
+   }
+}
+
+[7.367][FINE]:      Command received (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element/:wdc:1350775267445/name)
+[7.367][FINER]:     Waiting for all views to stop loading...
+[7.368][FINER]:     Done waiting for all views to stop loading
+[7.371][FINER]:     Waiting for all views to stop loading...
+[7.371][FINER]:     Done waiting for all views to stop loading
+[7.371][FINE]:      Command finished (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element/:wdc:1350775267445/name) with response {
+   "sessionId": "6a1f23d67ac7abf5a1cc393c17a5e6d7",
+   "status": 0,
+   "value": "a"
+}
+
+[7.371][FINE]:      Command received (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element/:wdc:1350775267445/enabled)
+[7.371][FINER]:     Waiting for all views to stop loading...
+[7.372][FINER]:     Done waiting for all views to stop loading
+[7.377][FINER]:     Waiting for all views to stop loading...
+[7.377][FINER]:     Done waiting for all views to stop loading
+[7.377][FINE]:      Command finished (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element/:wdc:1350775267445/enabled) with response {
+   "sessionId": "6a1f23d67ac7abf5a1cc393c17a5e6d7",
+   "status": 0,
+   "value": true
+}
+
+[7.378][FINE]:      Command received (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element/:wdc:1350775267445/click) with params {
+
+}
+
+[7.378][FINER]:     Waiting for all views to stop loading...
+[7.378][FINER]:     Done waiting for all views to stop loading
+[7.473][FINER]:     Waiting for all views to stop loading...
+[11.701][FINER]:    Done waiting for all views to stop loading
+[11.702][FINE]:     Command finished (/session/6a1f23d67ac7abf5a1cc393c17a5e6d7/element/:wdc:1350775267445/click) with response {
+   "sessionId": "6a1f23d67ac7abf5a1cc393c17a5e6d7",
+   "status": 0,
+   "value": {
+
+   }
+}
+
