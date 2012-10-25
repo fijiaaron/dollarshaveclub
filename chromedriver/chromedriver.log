@@ -1,0 +1,84 @@
+[0.000][INFO]:      ChromeDriver 23.0.1240.0 /home/aaron/bin/chromedriver
+[0.054][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.detach": true,
+   "chromeOptions": {
+      "detach": true
+   },
+   "cssSelectorsEnabled": true,
+   "javascriptEnabled": true,
+   "nativeEvents": false,
+   "platform": "ANY",
+   "rotatable": false,
+   "takesScreenshot": false,
+   "version": ""
+}
+
+[0.055][INFO]:      Using named testing interface
+[1.059][INFO]:      Connected to Chrome successfully. Version: 22.0.1229.94
+[1.168][FINE]:      Command received (/session/7f533995507647685af94562f57de844)
+[1.168][FINE]:      Command finished (/session/7f533995507647685af94562f57de844) with response {
+   "sessionId": "7f533995507647685af94562f57de844",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "23.0.1240.0",
+      "chrome.nativeEvents": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "linux",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "22.0.1229.94",
+      "webStorageEnabled": true
+   }
+}
+
+[1.170][FINE]:      Command received (/session/7f533995507647685af94562f57de844/url) with params {
+   "url": "http://www.dollarshaveclub.com"
+}
+
+[1.170][FINER]:     Waiting for all views to stop loading...
+[1.171][FINER]:     Done waiting for all views to stop loading
+[26.174][FINER]:    Waiting for all views to stop loading...
+[26.177][FINER]:    Done waiting for all views to stop loading
+[26.178][FINE]:     Command finished (/session/7f533995507647685af94562f57de844/url) with response {
+   "sessionId": "7f533995507647685af94562f57de844",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[26.179][FINE]:     Command received (/session/7f533995507647685af94562f57de844/url)
+[26.179][FINER]:    Waiting for all views to stop loading...
+[26.179][FINER]:    Done waiting for all views to stop loading
+[26.184][FINER]:    Waiting for all views to stop loading...
+[26.184][FINER]:    Done waiting for all views to stop loading
+[26.184][FINE]:     Command finished (/session/7f533995507647685af94562f57de844/url) with response {
+   "sessionId": "7f533995507647685af94562f57de844",
+   "status": 0,
+   "value": "http://www.dollarshaveclub.com/"
+}
+
+[26.185][FINE]:     Command received (/session/7f533995507647685af94562f57de844/title)
+[26.185][FINER]:    Waiting for all views to stop loading...
+[26.186][FINER]:    Done waiting for all views to stop loading
+[26.189][FINER]:    Waiting for all views to stop loading...
+[26.190][FINER]:    Done waiting for all views to stop loading
+[26.190][FINE]:     Command finished (/session/7f533995507647685af94562f57de844/title) with response {
+   "sessionId": "7f533995507647685af94562f57de844",
+   "status": 0,
+   "value": "Men's Razors, Buy Razor Blades Online | Dollar Shave Club"
+}
+
+[26.191][FINE]:     Command received (/session/7f533995507647685af94562f57de844)
+[38.272][WARNING]:  Chrome still running, terminating...
+[38.273][INFO]:     Chrome shutdown
