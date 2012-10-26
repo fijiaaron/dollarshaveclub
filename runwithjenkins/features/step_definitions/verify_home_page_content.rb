@@ -1,10 +1,5 @@
 #verify_home_page_content.rb
 
-class DollarShaveClub
-
-	def initialize(browser, environment="production")
-	end
-end
 
 Given /^I am on the dollarshaveclub\.com home page$/ do
   @browser = Watir::Browser.new
