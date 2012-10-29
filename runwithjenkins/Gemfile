@@ -1,6 +1,14 @@
 source "http://rubygems.org"
 
-gem "cucumber"
-gem "watir-webdriver"
+gem "rake"
 
-require 'watir-page-helper'
+gem "rspec"
+gem "cucumber"
+
+gem "watir-webdriver"
+gem "watir", :platforms => [:mswin, :mingw]
+
+gem "watir-page-helper"
+
+gem "headless"
+gem "chromedriver"
