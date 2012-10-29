@@ -1,0 +1,28 @@
+Most of the work I've done so far is infrastructure.  It sets up the environment, dependencies, and wires together watir, cucumber, and (optionally) runs headless.  Below is a description of the code and how to run it.
+
+setup.sh - Run 'bash setup.sh' to setup an isolated RVM environment.  If you already have RVM or want to use a global Ruby install, this is not needed.  You can also setup the Jenkins rvm plugin manually.
+
+Gemfile - This is used by bundle to install the dependencies.  Run 'bundle install' to install gems.  This is run by setup.sh
+
+Rakefile - Run 'rake' to execute the test suite from the command line.  The default is 'rake test' but you can also run 'rake smoke' to only run smoketests. 
+
+config/cucumber.yml - This config file creates the cucumber profiles and identifies @tags to run for the different rake tasks
+
+config/environments.yml - This config file specifies the parameters for each environment (i.e. the base URL)
+
+features - This folder contains the cucumber spec files
+
+features/step_definitions - This folder contains implementation files to run the cucumber tests
+
+features/support/env.rb - This file is the guts that ties together how tests are run.  It includes the required dependencies, sets up the configuration and checks environment variables for options.
+
+Environment variables that can be set (either from the command line or in Jenkins):
+DOLLARSHAVECLUB_TEST_ENVIRONMENT - set this to "production", "test", or "development" to specify the environment to run against
+DOLLARSHAVECLUB_TEST_DRIVER - set this to "firefox", "chrome", "ie", "safari", or "webrat (currently only tested with Firefox and Chrome
+DOLLARSHAVECLUB_TEST_HEADLESS - set this to "true" if you want to run headless (with no GUI).
+DOLLARSHAVECLUB_TEST_REMOTE - set this to specify a remote webdriver instance (or grid) to run on -- not supported yet
+DOLLARSHAVECLUB_TEST_CONFIG - set this to specify a config.yml file to use -- not used currently
+
+lib/site.rb -  This class is used for loading page objects
+
+lib/pages - This folder is where the page objects live. These make interacting with the site more convenient and tests more readable.
