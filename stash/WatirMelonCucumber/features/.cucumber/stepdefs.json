@@ -1,0 +1,106 @@
+[
+  {
+    "source": "^I am on the (.+) Home Page$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/search_steps.rb:1",
+    "steps": [
+      {
+        "name": "I am on the <search engine> Home Page",
+        "args": [
+          {
+            "offset": 12,
+            "val": "<search engine>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I search for a? ?\"([^\"]*)\"$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/search_steps.rb:6",
+    "steps": [
+      {
+        "name": "I search for \"Watir\"",
+        "args": [
+          {
+            "offset": 14,
+            "val": "Watir"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I search for a?n? ?([^\"].+[^\"])$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/search_steps.rb:12",
+    "steps": [
+      {
+        "name": "I search for a ridiculously small number of results",
+        "args": [
+          {
+            "offset": 15,
+            "val": "ridiculously small number of results"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I should see at least ([\\d,]+) results$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/search_steps.rb:19",
+    "steps": [
+
+    ]
+  },
+  {
+    "source": "^I should see at most ([\\d,]+) results$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/search_steps.rb:25",
+    "steps": [
+      {
+        "name": "I should see at most 200 results",
+        "args": [
+          {
+            "offset": 21,
+            "val": "200"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I convert (.+)$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/search_steps.rb:31",
+    "steps": [
+      {
+        "name": "I convert 10 cm to inches",
+        "args": [
+          {
+            "offset": 10,
+            "val": "10 cm to inches"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I should see the conversion result \"([^\"]*)\"$",
+    "flags": "",
+    "file_colon_line": "features/step_definitions/search_steps.rb:37",
+    "steps": [
+      {
+        "name": "I should see the conversion result \"<as expected>\"",
+        "args": [
+          {
+            "offset": 36,
+            "val": "<as expected>"
+          }
+        ]
+      }
+    ]
+  }
+]

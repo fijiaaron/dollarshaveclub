@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Support Center</title>
+<meta name="description" content="Default Description" />
+<meta name="keywords" content="Magento, Varien, E-commerce" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<meta property="og:title" content="DollarShaveClub.com - Our Blades Are F***ing Great">
+<meta property="og:description" content="Dollar Shave Club couldn't be simpler. Select one of our great razors, pay one low monthly fee, and we send 'em right to your door. No more over-paying for f...">
+<meta property="og:type" content="video">
+<meta property="og:image" content="http://i3.ytimg.com/vi/ZUG9qYTJMsI/hqdefault.jpg">
+<meta property="og:video" content="http://www.youtube.com/v/ZUG9qYTJMsI?version=3&auto4hide=1">
+<meta property="og:video:type" content="application/x-shockwave-flash">
+<meta property="og:video:width" content="398">
+<meta property="og:video:height" content="224">
+
+
+<meta name="twitter:card" content="player">
+<meta name="twitter:site" content="@dollarshaveclub">
+
+<link rel="icon" href="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/skin/frontend/dsc/default/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/skin/frontend/dsc/default/favicon.ico" type="image/x-icon" />
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/js/blank.html';
+    var BLANK_IMG = 'http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/skin/frontend/dsc/default/css/dscstyle.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/skin/frontend/dsc/default/css/belvg/facebookfree.css" media="all" />
+<script type="text/javascript" src="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/js/varien/js.js"></script>
+<script type="text/javascript" src="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/js/varien/form.js"></script>
+<script type="text/javascript" src="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/js/varien/menu.js"></script>
+<script type="text/javascript" src="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/js/mage/cookies.js"></script>
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://assets.dollarshaveclub.com/Dc1NTlmNzQ3ZTYgIC0K/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script></head>
+<body class="page-empty  cms-page-view cms-support-center">
+    <div>
+        
+<!-- BEGIN GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">
+//<![CDATA[
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+
+    var _gaq = _gaq || [];
+
+_gaq.push(['_setAccount', 'UA-24401317-1']);
+_gaq.push(['_trackPageview']);
+
+
+//]]>
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->                <div class="std"><script type="text/javascript">// <![CDATA[
+location.href='https://dollarshaveclub.zendesk.com/home';
+// ]]></script></div>        <script language="JavaScript" type="text/javascript">
+/*<![CDATA[*/
+window.fbAsyncInit = function() {
+	FB.init({appId: '294184150666249',             
+	    status     : true, 
+            cookie     : true,
+            xfbml      : true,
+            oauth      : true});
+
+	FB.getLoginStatus(function(response) {
+	   if (response.status == 'connected') {
+	    	   }
+	});
+};
+(function(d){
+           var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+           js = d.createElement('script'); js.id = id; js.async = true;
+           js.src = "//connect.facebook.net/en_US/all.js";
+           d.getElementsByTagName('head')[0].appendChild(js);
+         }(document));
+
+function login(){
+	   document.location.href="http://www.dollarshaveclub.com/facebookfree/customer/login/?referer=aHR0cDovL3d3dy5kb2xsYXJzaGF2ZWNsdWIuY29tL3N1cHBvcnQtY2VudGVy";
+	}
+	function logout(){
+	   document.location.href="http://www.dollarshaveclub.com/facebookfree/customer/logout/";
+	}
+	function greet(id){
+	   FB.api('/me', function(response) {
+		var src = 'https://graph.facebook.com/'+id+'/picture';
+		$$('.welcome-msg')[0].insert('<img height="20" src="http://www.dollarshaveclub.com/'+src+'"/>');
+	   });
+	}
+
+    function fblogin(){
+        FB.login(function(response) {
+
+           if (response.status == 'connected') {
+                login();
+            } else {
+                // user is not logged in
+                window.location.reload();
+            }
+        }, {scope:'email,publish_stream'});
+        return false;
+    }
+/*]]>*/
+</script>            </div>
+</body>
+</html>

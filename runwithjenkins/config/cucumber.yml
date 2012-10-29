@@ -1,3 +1,0 @@
-all:  --no-source --format pretty --tags ~@development
-smoketest: --no-source --format pretty --tags @smoketest --tags ~@development
-devevelopment: --format pretty --tags @development 

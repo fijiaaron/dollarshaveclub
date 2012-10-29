@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>
+      Dollar Shave Club  : Submit a request for assistance
+  </title>
+  <link rel='shortcut icon' href='https://dollarshaveclub.zendesk.com/system/logos/2031/3546/dsc_favicon.png' type='image/png'/>
+  
+
+   <meta content="AD/nqB5WbrsjKnZvxNt7fneYkvQL/RIj5QkXs9u6vQc=" name="csrf-token" />
+   <meta content="authenticity_token" name="csrf-param" />
+
+  <!--[if lt IE 9]>
+  <script src="https://assets.zendesk.com/assets/vendor/html5_shiv-681dc9877444fdb23a5ba949e9dc3253.js" type="text/javascript"></script>
+<script src="https://assets.zendesk.com/assets/vendor/excanvas-3def50ffee95d90efb0da98ccf864f3a.js" type="text/javascript"></script>
+  <![endif]-->
+
+  <link href="https://assets.zendesk.com/assets/application/global-4f08eafb8c2b7bcde9e42629aee3d645.css" media="all" rel="stylesheet" type="text/css" />
+<link href="https://assets.zendesk.com/assets/application/end_user-c923f3e9b6717c2c623a3455240b94e2.css" media="all" rel="stylesheet" type="text/css" />
+<link href="https://assets.zendesk.com/assets/application/agent-0cbf823e81d382d7e11327e83e8b18a7.css" media="all" rel="stylesheet" type="text/css" />
+<link href="https://assets.zendesk.com/assets/application/admin-d087a579ff6c9b17bd591401e442d7db.css" media="all" rel="stylesheet" type="text/css" />
+<link href="https://assets.zendesk.com/assets/application/monitor-11f2a8499e164de81f989f11db99d102.css" media="all" rel="stylesheet" type="text/css" />
+  <link href="https://assets.zendesk.com/assets/print-629c31e90864a8dcadc37059ded73476.css" media="print" rel="stylesheet" type="text/css" />
+
+  <!--[if lte IE 8]><link href="https://assets.zendesk.com/assets/ie-d1e6a4ffadfdf7a8a9d36c2edeb3ef45.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+  <!--[if lte IE 6]><link href="https://assets.zendesk.com/assets/ie6-95d1a136e8bd4d34b48677452e63ee1f.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+
+    <link id='generated_styles' rel='stylesheet' type='text/css' href='https://dollarshaveclub.zendesk.com/generated/stylesheets/branding/1438/143857/1351284239.css' media='screen' />
+
+  <script id='generated_javascript' type='text/javascript' src='https://dollarshaveclub.zendesk.com/generated/javascripts/locale/0/1/1351110262.js'></script>
+  <script src="https://assets.zendesk.com/assets/bootstrap-4c4fedb6455587cae9fc0e6f56b0226b.js" type="text/javascript"></script>
+  <script type="text/javascript">
+//<![CDATA[
+Zendesk.assetHost = 'https://assets.zendesk.com';
+Zendesk.ToTangoID = 'SP-1111-01';
+Zendesk.viewedOnMobileDevice = false;
+
+  currentUser = Zendesk.currentUser = new User({"id":null,"externalId":null,"name":"Anonymous user","first_name":"Anonymous","assumed":false,"role":0,"accessibleForums":true,"hasEmail":true,"email":"invalid@example.com","restriction":0,"quietMode":true,"uses12HourClock":true,"passwordExpiresAt":null,"availableForVoice":false,"availableForVoiceOn":"off","voiceClientName":"agent_","voicePresenceName":"agent__presence","version":"users/new","localeVersion":"1.1351110262","showCookieLink":true,"tags":[],"managePinnedOrder":false});
+  currentUser.account = currentAccount = Zendesk.currentAccount = new Account({"id":143857,"name":"Dollar Shave Club ","showUserProfile":false,"showChangePassword":true,"hasRemoteAuthentication":false,"subdomain":"dollarshaveclub","domain":"zendesk.com","isZendesk":false,"isSandbox":false,"isOpen":true,"isInTrial":false,"isPayingCustomer":true,"forumsTitle":"DSC FAQs","urlPrefix":"https://dollarshaveclub.zendesk.com","secureUrlPrefix":"https://dollarshaveclub.zendesk.com","lastTrialDay":null,"daysLeftInTrial":null,"showExtendedTicketMetrics":true,"rulesCanReferenceMacros":false,"hasInvalidationTriggers":false,"features":["collaboration","ticketSharing","voice","cms","facebookIntegration","facebookMessages","lotus","lotusForAgents","placeholderSuggestions","mobileV2","secureSessions"],"twitterAccounts":[{"id":20012582,"screen_name":"@Ask_DSC","authorized":true}],"facebookPages":[],"isLotusVisibleToAgents":true,"doAgentsPreferLotus":false,"pubsubServers":["pubsub1-1.zendesk.com:443","pubsub1-2.zendesk.com:443","pubsub1-3.zendesk.com:443","pubsub1-4.zendesk.com:443"]});
+  currentUser.organization = null;
+  currentUser.canViewOrganization = currentUser.organization != null && (!currentUser.isEndUser || currentUser.restriction === User.restrictions.organization || currentUser.organization.isShared);
+
+
+//]]>
+</script>
+
+  <script src="https://assets.zendesk.com/assets/node_pubsub_2-ce557eb478815e51db7b288c9aa89a71.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+  ;(function(){
+    var config = {"servers":[{"host":"pubsub1-1.zendesk.com","port":"443"},{"host":"pubsub1-2.zendesk.com","port":"443"},{"host":"pubsub1-3.zendesk.com","port":"443"},{"host":"pubsub1-4.zendesk.com","port":"443"}],"secure":true,"upgrade":false,"userId":"0","userType":"0","accountName":"dollarshaveclub","auth":"jjwyIZJO8vBHIArougWWvV5K/NiC8kv35zca0uCQNSOR8HEZb6mEEobL5hs1YWCtxc17kKpN4q6qahw23TPgSg=="},
+        random = config.servers[Math.floor(Math.random() * config.servers.length)];
+    config.host = random.host;
+    config.port = random.port;
+    RadarClient.configure(config);
+    window.Zendesk || (Zendesk = {});
+  }());
+
+//]]>
+</script>
+  <script type="text/javascript">
+    if(Zendesk.currentAccount && Zendesk.currentAccount.features.include('secureSessions')) {
+      jQuery.cookie.defaults.secure = true;
+    }
+
+    if(Zendesk.currentUser) {
+      Zendesk.currentUser.authenticityToken = $j("meta[name='csrf-token']").attr('content');
+    }
+  </script>
+
+    <script type="text/javascript">
+      // disable Sammy logging in production
+      Sammy.log = function(){};
+    </script>
+
+<script type="text/javascript">
+//<![CDATA[
+    
+    $j(document).ready(function () {
+      
+    });
+
+//]]>
+</script>
+  
+
+
+  
+  <style type="text/css">
+/* Link Color: 3D8286 */
+/* Orange: E3692C */
+
+html,body {
+	background:url(https://dollarshaveclub.zendesk.com/attachments/token/lcxmyqffxn1s5ga/?name=wood_bg_fixed1.jpeg) top left;
+}
+
+
+#page {
+	width:1021px;
+	background:url(https://dollarshaveclub.zendesk.com/attachments/token/rmprhite1lb0ynp/?name=bg_shadow.png) repeat;
+}
+
+div#container {
+	padding:40px;
+	margin-left:2px;
+}
+
+#container {
+	width:937px;
+	background:url(https://dollarshaveclub.zendesk.com/attachments/token/uzrcsnd6lkwbk4t/?name=cont_back.png) repeat-y;
+}
+
+
+#header {background:none;}
+#table_header tr {visibility:hidden;}
+#table_header {
+	margin:5px 0 0 6px;
+	width:330px;
+	height:80px;
+	background:url(https://dollarshaveclub.zendesk.com/attachments/token/btc2ol4yn0ya6w2/?name=dsc_logo.png) no-repeat;
+}
+
+/* Menu */
+/*---------------------------------*/
+#top-menu-background {
+	border-radius:6px;
+	margin-top:10px;
+	/*background:url(https://dollarshaveclub.zendesk.com/attachments/token/rmprhite1lb0ynp/?name=bg_shadow.png) repeat-x;*/
+	background:none;
+}
+ul#green.agent-tabs li.main, ul#green.agent-tabs li.active:hover, ul#green.agent-tabs li.active.over {
+	border-color:transparent;
+}
+/* Set the hover background color for the inactive (unselected) tabs */
+ul#green.agent-tabs li.main:hover, ul#green.agent-tabs li.over, ul#green li.main:hover {
+    background:none; /* gray */
+}
+/* Set Links UP Color */
+.header, .header a, #table_header a, #top-right, #top-right a, #top-menu a.tab, #user_chat h1 span, #user_chat #end_session {
+	color:#C7BCB3;
+}
+#top-menu ul li.active {
+	background:none;
+}
+#top-menu li.active a.tab {
+	color:#E3692C;
+}
+li.main {
+	background:none;
+}
+ul#green li.active {
+	border-color:transparent;
+}
+#top form#topquery {
+	padding:4px 6px 4px 6px;
+	border-radius:0px 5px 5px 0px;
+	background:#727070;
+}
+ul#gray {
+	border-radius:5px 0px 0px 5px;
+}
+.main.clazz.tab_requests.first,.main.clazz.tab_requests {
+	display:none;
+}
+/*---------------------------------*/
+
+/* Set the drop-down menu background and border color */
+ul.menu-drop {
+	background:url(https://dollarshaveclub.zendesk.com/attachments/token/uzrcsnd6lkwbk4t/?name=cont_back.png) repeat;
+	border:1px #E3692C solid;
+	border-top:none;
+}
+
+
+
+/* Link Colors */
+a:link {text-decoration:underline; color:#3D8286;}
+/* Set the default content hyperlink color */
+.content a {
+	color: #3D8286;
+} 
+
+/* Set the font color of the Edit link */
+.content a.edit_this, #search-result a.edit_this {
+	color: #E3692C;
+}
+
+/* Set Notice Link Color */
+#flash div a.title {
+	color:#3D8286;
+}
+
+/* Forum Link Color */
+div.column li a {
+	color:#3D8286;
+}
+
+/* Set Arrow Color */
+a .follow_link, a:visited .follow_link, h2 a:active .follow_link {
+	color:#3D8286;
+}
+a .follow_link, a:visited .follow_link, h2 a:hover .follow_link {
+	color:#E3692C;
+}
+ul.menu-drop li a {
+	color:#3D8286;
+}
+
+
+/* Top Right Link Color */
+#top-right {
+	color:#B3B0AD;
+}
+#top-right a {
+	color:#B3B0AD;
+	text-decoration:none;
+}
+a#top-right-name {color:#E3692C;}
+
+.container {
+	background:#F4F4F4;
+	border-radius:4px;
+}
+
+#flash div#notice {background-color:#F4F4F4;}
+
+super {color:#E3692C;}
+</style>
+
+
+</head>
+
+
+<body class="anonymous anonymous-new">
+  <ul id='banners'>
+  <script type='text/html' id='banner-item-template' data-template-name='banner-item'>
+    <li>
+      <span class='icon'>&nbsp; &nbsp; &nbsp; </span>
+      <span class='content'>{{ text }}</span>
+      <span class='ignore'>(<a href="new#">ignore this</a>)</span>
+      <span class='reload'>(<a href="new">reload</a>)</span>
+    </li>
+  </script>
+</ul>
+
+  <div id="page">
+    <div id="top">
+      <div id="header">
+        <div id="top-right"></div>
+        <div id="header_container">
+    <table id="table_header"><tr>
+      <td><a href="../../www.dollarshaveclub.com/index.html" target="_blank" title=""><img alt="" id="logo" src="https://assets.zendesk.com/images/header-logo.png?1350954028" /></a>&nbsp;</td>
+      <td><img alt="" id="logo-delimiter" src="https://assets.zendesk.com/images/logo-delimiter.png?1350954028" />&nbsp;</td>
+      <td><a href="https://dollarshaveclub.zendesk.com/home">Dollar Shave Club </a></td>
+    </tr></table>
+</div>
+
+      </div>
+
+      <div id="top-menu-background">
+        <div id="top-menu">
+          <ul id="green" style="width: 100%;">
+            <li class="main clazz tab_home"><a href="https://dollarshaveclub.zendesk.com/home" class="tab">Home</a></li>
+              <li class="main clazz tab_new"><a href="new" class="tab">Submit a request</a></li>
+            <li class="main clazz tab_requests"><a href="https://dollarshaveclub.zendesk.com/requests" class="tab">Check your existing requests</a></li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    
+
+<div id="container" class="clearfix">
+
+  <div id="flash">
+</div>
+
+
+
+  <div id="flash_messages">
+    
+
+
+
+<script type="text/javascript">
+</script>
+
+  </div>
+
+  
+
+  <div id="contentwrapper">
+    <div id="contentcolumn">
+      
+
+
+<div class="content content_grey"><div class="grey_box_top"><div class="box box_top"></div></div>  <!-- REQUEST FORM -->
+<form action="https://dollarshaveclub.zendesk.com/anonymous_requests" enctype="multipart/form-data" id="ticketform" method="post" name="ticketform"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="AD/nqB5WbrsjKnZvxNt7fneYkvQL/RIj5QkXs9u6vQc=" /><input name="utf8" type="hidden" value="&amp;#x2713;" /></div><div id="a_comment_body_hp_1351299760"><style media="screen" scoped="scoped" type="text/css">#a_comment_body_hp_1351299760 { display:none; }</style><label for="a_comment_body">Do not fill in this field</label><textarea id="a_comment_body" name="a_comment_body"></textarea></div>    <h2>
+      Submit a request
+      <span class="sub"></span>
+    </h2>
+
+    <input id="uploads_attribute" name="comment[uploads]" type="hidden" />
+    <input id="ticket_via_followup_source_id" name="ticket[via_followup_source_id]" type="hidden" />
+
+    
+    
+
+    <div id="end-user-form" style="width:98%;">
+        <h3>Your email address <super>*</super></h3>
+        <p><input class="title" id="email_address" name="email" size="30" type="text" value="" /></p>
+
+      <h3>Full Name <super>*</super></h3>
+<p><input id="ticket_fields_21300911" name="ticket[fields][21300911]" size="30" type="text" value="" /></p><h3>Subject <super>*</super></h3>
+<p><input class="title" id="ticket_subject" name="ticket[subject]" size="30" type="text" /></p><h3>What can we help you with? <super>*</super></h3>
+<p>Please enter the details of your request. A DSC Team member will respond as soon as possible.</p><p><textarea cols="68" id="comment_value" name="comment[value]" rows="6" style="width:100%"></textarea></p>
+    </div>
+
+</form>
+    <h3>Attachment(s)</h3>
+    <!-- ATTACHMENTS FORM -->
+    <div class="attachments_for_portal">
+      
+
+<script type="text/javascript">
+  function checkMaxUploads() {
+    if ( $$('div.attach_item').size() >= 10 ) {
+      alert('You can attach only 10 files');
+      document.attach_form.reset();
+    } else {
+      submitAttachForm("Uploading...");
+    }
+  }
+  function checkUploadError() {
+    var iFrameBody = $j('#upload_frame').contents().find('body')
+    if (iFrameBody.text().include('Something went wrong')) {
+      $j('#submit-button').val('Submit');
+$j('#submit-button').prop('disabled', false);
+$j('#uploading_message').hide();
+$j('#attach_link').show();
+$j('#uploads_form').show();
+document.attach_form.reset();
+      alert("There was an error with the attachment. Please try again or contact our support team if the problem continues.");
+    }
+  }
+</script>
+
+<div id="uploads_form">
+  <!-- Attach Form -->
+<form action="https://dollarshaveclub.zendesk.com/fileuploads?format=js" enctype="multipart/form-data" id="attach_form" method="post" name="attach_form" target="upload_frame"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="AD/nqB5WbrsjKnZvxNt7fneYkvQL/RIj5QkXs9u6vQc=" /><input name="utf8" type="hidden" value="&amp;#x2713;" /></div>    <span id="attach_link" class="link">
+    Attach file &raquo;
+    <input id="hidden-file-input" name="uploaded_data" onchange="checkMaxUploads();" tabindex="-1" type="file" />    </span>
+    <input id="token" name="token" type="hidden" />
+</form>
+  <!-- Uploading Message -->
+  <span id="uploading_message" style="display: none;">
+    <img id="uploading_indicator" src="https://dollarshaveclub.zendesk.com/images/indicator2.gif"/>
+
+    Uploading...
+  </span>
+
+  <!-- Target iFrame -->
+  <iframe id="upload_frame" name="upload_frame" src="about:blank" onload="checkUploadError();"></iframe>
+
+  <!-- Attachment list -->
+  <div id="attachments" class="attach_list">
+    <div id="attachment_clear" class="clear"></div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  $j('#hidden-file-input').mouseover(function(e){ $j('#attach_link').addClass('attach_link_selected'); $j(this).css('cursor', 'pointer'); });
+  $j('#hidden-file-input').mouseout(function(e){ $j('#attach_link').removeClass('attach_link_selected');});
+
+  $j("#attach_link").mousemove(function(e) {
+    var input = $j(this).find("#hidden-file-input");
+    input.css({
+      left: e.pageX- $j(this).offset().left - input.width() + 50,
+      top: e.pageY - $j(this).offset().top -10
+    })
+  });
+</script>
+
+    </div>
+
+
+  <!-- ACTIONS FORM -->
+<form action="new" id="submit_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="AD/nqB5WbrsjKnZvxNt7fneYkvQL/RIj5QkXs9u6vQc=" /><input name="utf8" type="hidden" value="&amp;#x2713;" /></div>    <div class="action">
+      <input class="button primary" id="submit-button" name="commit" onclick="submitRequestForm(); $j(&quot;#submit-button&quot;).prop(&quot;disabled&quot;, true);" type="button" value="Submit" />
+    </div>
+</form><div class="grey_box_bottom"><div class="box box_bottom"></div></div></div><div class="box_bottom_clear">&nbsp;</div>
+    </div>
+  </div>
+
+  <div id="sidebar">
+      <div id="widget_fixed" class="draggable"><div><div class="blue_box_top"></div><div class="side-box-content"><h3>Submit a request for assistance</h3>    <p>Fields marked with an asterisk (*) are mandatory.</p><p>You'll be notified when our staff answers your request.</p>
+<div style="clear:left; height:8px;"></div></div><div class="blue_box_bottom">&nbsp;</div></div></div>
+  </div>
+
+</div>
+
+
+  </div>
+
+  <div id="footer">
+  
+
+    <p>
+       <a href="http://www.zendesk.com/help-desk-software">Help Desk Software</a> by Zendesk
+    </p>
+</div>
+
+<!-- Render any mouseover tips on the page -->
+
+<script type="text/javascript">
+//<![CDATA[
+  if(!Zendesk) var Zendesk = {};
+  Zendesk.tab = "new";
+
+//]]>
+</script>
+<script src="https://assets.zendesk.com/assets/auto_included-b30d5a91175e61b76a0ae1981be54f11.js" type="text/javascript"></script>
+  <script src="https://assets.zendesk.com/assets/zd_tickets_table_node-46252e9afb1acc292abdbe799111d149.js" type="text/javascript"></script>
+  <script src="https://assets.zendesk.com/assets/zd_ticket_viewing_status_node-6a5ed52365ae5d8f2af51acd56d5e50e.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+  $z.initializeModules(zd.jsInitializers);
+
+//]]>
+</script>
+  <script type="text/javascript" charset="utf-8">
+$j(function(){
+	
+	$j('#container').before('<div style="margin-top:12px; height:18px; background:url(https://dollarshaveclub.zendesk.com/attachments/token/0fqytikvhfpfeca/?name=cont_back_top_small.png) no-repeat top left;"></div>');
+	
+	$j('#page').append('<div style="height:130px; margin-left:2px; background:url(https://dollarshaveclub.zendesk.com/attachments/token/jp9vrrnib9gcgpz/?name=cont_back_bottom_op.png) no-repeat top left;"></div>');
+	
+	if (currentUser.role==0){
+		
+		$j('a').each(function(){
+
+			if ($j(this).text()=='login' || $j(this).text()=='sign up'){
+				$j(this).remove();
+			}
+
+		});
+		
+		//$j('#top-right').find('a').after('<div style="display:none;">');
+		//$j('#top-right').append('</div>');
+		
+		/*$j('#top-right:contains("|")').html(function(i, h) {
+		  return h.replace('|', '');
+		});
+		$j('#top-right:contains("|")').html(function(i, h) {
+		  return h.replace('|', '');
+		});*/
+		
+	}
+	
+	$j('.item-info').find('div').get(1).css('width','160px');
+	
+});
+
+$j(window).load(function(){
+	
+	if (currentUser.role==0){
+		
+		$j('a').each(function(){
+
+			if ($j(this).text()=='login' || $j(this).text()=='sign up'){
+				$j(this).remove();
+			}
+
+		});
+
+		//$j('ul#green').find('li').get(3).remove();
+	}
+	
+});
+</script>
+
+    <script type="text/javascript" charset="utf-8">
+      $j(document).ready(function () {
+        var cacheBuster = currentUser.isAnonymous ? currentUser.localeVersion : currentUser.version;
+        $j.ajax({
+          url: '/widgets/async.json?user_id=' + currentUser.id + '&v=' + cacheBuster,
+          data: {"controller_name":"anonymous","action_name":"new","action_method":"get"},
+          success: Widget.asyncInsertion
+        });
+      });
+    </script>
+
+  
+
+<script type="text/javascript">
+//<![CDATA[
+    
+    jQuery(document).ready(function () {
+          Zendesk.Alerts.showPasswordExpiration();
+
+    });
+
+//]]>
+</script></body>
+</html>
