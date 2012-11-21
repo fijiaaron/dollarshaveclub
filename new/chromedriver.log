@@ -1,0 +1,59 @@
+[0.000][INFO]:      ChromeDriver 23.0.1240.0 /home/aaron/.chromedriver-helper/linux32/chromedriver
+[0.033][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.detach": true,
+   "chromeOptions": {
+      "detach": true
+   },
+   "cssSelectorsEnabled": true,
+   "javascriptEnabled": true,
+   "nativeEvents": false,
+   "platform": "ANY",
+   "rotatable": false,
+   "takesScreenshot": false,
+   "version": ""
+}
+
+[0.034][INFO]:      Using named testing interface
+[0.831][INFO]:      Connected to Chrome successfully. Version: 22.0.1229.94
+[0.834][FINE]:      Command received (/session/4d9c4d8138ad0d6c37aa6755718d7cef)
+[0.834][FINE]:      Command finished (/session/4d9c4d8138ad0d6c37aa6755718d7cef) with response {
+   "sessionId": "4d9c4d8138ad0d6c37aa6755718d7cef",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "23.0.1240.0",
+      "chrome.nativeEvents": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "linux",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "22.0.1229.94",
+      "webStorageEnabled": true
+   }
+}
+
+[0.862][FINE]:      Command received (/session/4d9c4d8138ad0d6c37aa6755718d7cef/cookie)
+[0.862][FINER]:     Waiting for all views to stop loading...
+[0.863][FINER]:     Done waiting for all views to stop loading
+[3.479][FINER]:     Waiting for all views to stop loading...
+[3.492][FINER]:     Done waiting for all views to stop loading
+[3.492][FINE]:      Command finished (/session/4d9c4d8138ad0d6c37aa6755718d7cef/cookie) with response {
+   "sessionId": "4d9c4d8138ad0d6c37aa6755718d7cef",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[3.503][FINE]:      Command received (/session/4d9c4d8138ad0d6c37aa6755718d7cef)
+[14.558][WARNING]:  Chrome still running, terminating...
+[14.558][INFO]:     Chrome shutdown
